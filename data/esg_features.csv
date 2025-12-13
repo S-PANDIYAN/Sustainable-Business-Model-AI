@@ -1,0 +1,46 @@
+env_score,soc_score,gov_score,source,document
+237,153,33,sdg,The-Sustainable-Development-Goals-Report-2025.txt
+629,74,3,circular,Towards the circular economy - Vol 2.txt
+60,23,15,gri,GRI 101_ Biodiversity 2024 - English.txt
+771,31,24,gri,GRI 102_ Climate Change 2025.txt
+367,10,4,gri,GRI 103_ Energy 2025.txt
+500,284,69,gri,GRI 11_ Oil and Gas Sector 2021.txt
+515,235,57,gri,GRI 12_ Coal Sector 2022.txt
+275,301,40,gri,GRI 13_ Agriculture Aquaculture and Fishing Sectors 2022.txt
+426,316,69,gri,GRI 14_ Mining Sector 2024.txt
+15,10,19,gri,GRI 1_ Foundation 2021.txt
+28,15,7,gri,GRI 201_  Economic Performance 2016.txt
+0,9,4,gri,GRI 202_ Market Presence 2016.txt
+0,10,5,gri,GRI 203_ Indirect Economic Impacts 2016.txt
+0,3,4,gri,GRI 204_ Procurement Practices 2016.txt
+0,5,9,gri,GRI 205_ Anti-corruption 2016.txt
+0,1,2,gri,GRI 206_ Anti-competitive Behavior 2016.txt
+1,5,42,gri,GRI 207_ Tax 2019.txt
+9,14,78,gri,GRI 2_ General Disclosures 2021.txt
+10,0,2,gri,GRI 301_ Materials 2016.txt
+143,0,4,gri,GRI 302_ Energy 2016.txt
+4,10,6,gri,GRI 303_ Water and Effluents 2018.txt
+0,5,3,gri,GRI 304_ Biodiversity 2016.txt
+319,4,8,gri,GRI 305_ Emissions 2016.txt
+71,3,0,gri,GRI 306_ Effluents and Waste 2016.txt
+281,8,5,gri,GRI 306_ Waste 2020.txt
+10,1,8,gri,GRI 308_ Supplier Environmental Assessment 2016.txt
+21,13,21,gri,GRI 3_ Material Topics 2021.txt
+0,9,3,gri,GRI 401_ Employment 2016.txt
+0,1,4,gri,GRI 402_ Labor and Management Relations 2016.txt
+1,430,25,gri,GRI 403_ Occupational Health and Safety 2018.txt
+0,31,3,gri,GRI 404_ Training and Education 2016.txt
+0,7,3,gri,GRI 405_ Diversity and Equal Opportunity 2016.txt
+0,1,5,gri,GRI 406_ Non-discrimination 2016.txt
+0,1,5,gri,GRI 407_ Freedom of Association and Collective Bargaining 2016.txt
+0,10,4,gri,GRI 408_ Child Labor 2016.txt
+0,1,4,gri,GRI 409_ Forced or Compulsory Labor 2016.txt
+0,3,2,gri,GRI 410_ Security Practices 2016.txt
+0,3,5,gri,GRI 411_ Rights of Indigenous Peoples 2016.txt
+3,43,2,gri,GRI 413_ Local Communities 2016.txt
+0,11,8,gri,GRI 414_ Supplier Social Assessment 2016.txt
+0,0,28,gri,GRI 415_ Public Policy 2016.txt
+0,70,13,gri,GRI 416_ Customer Health and Safety 2016.txt
+0,0,27,gri,GRI 417_ Marketing and Labeling 2016.txt
+0,0,4,gri,GRI 418_ Customer Privacy 2016.txt
+140,88,3,gri,GRI Standards Glossary 2025.txt
